@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-                                                           Hello, It's Jeissy_Atieno
+                                                           Hello, It's Atieno
 # 💫 About Me:
 🔭 I’m currently working on PYTHON<br>👯 I’m looking to collaborate on system development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Django<br>currently learning javascript<br>💬 Ask me about System Dev <br>⚡ Fun fact
 
